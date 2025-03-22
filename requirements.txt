@@ -1,12 +1,7 @@
-streamlit
-numpy
-pandas
-xgboost
-scikit-learn
-faker
-geopy
-seaborn
-PIL
-random
-matplotlib
+streamlit>=1.29.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pillow>=9.5.0
 
