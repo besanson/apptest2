@@ -616,4 +616,6 @@ elif page == "⚙️ Settings":
 # App footer
 st.markdown("""
 <div style='text-align: center; margin-top: 30px; opacity: 0.7;'>
-    <p>Consumer Insights AI
+    <p>Consumer Insights AI Demo | Created with Streamlit</p>
+</div>
+""", unsafe_allow_html=True)
