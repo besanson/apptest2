@@ -105,7 +105,7 @@ if 'products' not in st.session_state:
 
 # Sidebar - App navigation
 st.sidebar.title("Consumer Insights AI")
-st.sidebar.image("https://via.placeholder.com/150", width=150)  # Replace with your logo
+st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/d/d5/Poesia_-_logo_%28Italy%2C_2020%29.svg", width=150)  # Replace with your logo
 
 # Create tabs for different sections
 page = st.sidebar.radio("Navigation", [
